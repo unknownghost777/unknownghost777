@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @unknownghost777
-- 👀 I’m interested in ... Figma Designing 
-- 🌱 I’m currently learning ... Spark AR & Ethical Hacking 
-- 💞️ I’m looking to collaborate on ... Figma 
+- 👋 Hi, I’m Harshil Vanparia
+- 👀 I’m interested in ... UI/UX Desigining , AR Effect.
+- 🌱 I’m currently learning ... Filter Effect & Ethical Hacking 
+- 💞️ I’m looking to collaborate on ... Spark AR 
 - 📫 How to reach me ... harshil_vanparia (instagram)
 
 <!---
